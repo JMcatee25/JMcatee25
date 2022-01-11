@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @JMcatee25
+- 👀 I’m interested in Golang, AWS, Serverless
+- 📫 How to reach me:
+- JarrodMcatee25@gmail.com
